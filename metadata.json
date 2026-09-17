@@ -1,0 +1,8 @@
+{
+  "name": "El Umbral — Tarot Místico & Tirada Celta",
+  "description": "Plataforma mística de lecturas de tarot con IA: Tirada diaria de 3 cartas, Tirada Celta completa de 10 cartas, membresía Pro y Pase Élite con simulación de pasarela de pago e interactividad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
